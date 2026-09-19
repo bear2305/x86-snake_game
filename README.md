@@ -2,6 +2,13 @@
 
 A tiny snake game written in raw x86 assembly (NASM) that runs directly on real-mode BIOS interrupts — no operating system, no C runtime, just a CPU, RAM, and the BIOS.
 
+
+
+<img width="400" height="225" alt="snake3" src="https://github.com/user-attachments/assets/225e3be8-4fda-4d11-a934-4fdf996d0dc8" />
+
+
+
+
 ## How it works
 
 The whole game loop lives inside a boot-stage binary:
